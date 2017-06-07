@@ -21,5 +21,5 @@
 >Git is free software.
 ----
 2. add this file to the .git repo you created before. This takes two steps of git command  
-$ git add readme.txt
+$ git add readme.txt  
 $ git commit -m "add readme file"
