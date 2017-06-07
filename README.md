@@ -14,3 +14,9 @@
 3. $ git init  
 
 * Add the first file to your git repo
+1. Create a sample file "readme.txt" by editor like Notepad++, avoid use Notepad from MS Windows.  
+----
+### readme.txt
+Git is a version control system.
+Git is free software.
+----
