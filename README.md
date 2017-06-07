@@ -17,6 +17,6 @@
 1. Create a sample file "readme.txt" by editor like Notepad++, avoid use Notepad from MS Windows.  
 ----
 ### readme.txt
-Git is a version control system.
-Git is free software.
+>Git is a version control system.  
+>Git is free software.
 ----
