@@ -7,3 +7,10 @@
 * Configue the user information by following commands  
    $ git config --global user.name "Your Name"  
    $ git config --global user.email "email@example.com"
+
+* Create the first git repo  
+1. $ mkdir "create a new local name here"    
+2. $ cd "the dir you create"  
+3. $ git init  
+
+* Add the first file to your git repo
